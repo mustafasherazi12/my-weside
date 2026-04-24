@@ -1,4 +1,12 @@
 body {
+    background-image: url('cat.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
     background-color: #f0f2f5;
